@@ -1,1 +1,2 @@
 # movie-database
+Designing a movie database that allows users to login into the website as visitors or reviewers. Visitors can search for movies from the database and access information about the movie, they can create watchlists of movies they want to watch as well list of movies they have watched. Reviewers can give reviews of movies they have seen and access the list of movies they have reviewed.
